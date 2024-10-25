@@ -1,0 +1,3 @@
+scDepth()
+
+nome = "idoso"
