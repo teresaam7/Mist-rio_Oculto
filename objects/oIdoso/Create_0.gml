@@ -1,3 +1,0 @@
-scDepth()
-
-nome = "idoso"

@@ -1,1 +1,0 @@
-path_start(pBirb2, 5, path_action_restart, true)

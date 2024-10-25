@@ -1,1 +1,0 @@
-global.op = 3
