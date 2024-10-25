@@ -12,7 +12,7 @@ The theme of the Game Jam was "Small World," which inspired us to create a rich 
 
 - **Immersive Narrative**: The story captivates players with engaging dialogues and unexpected twists. 📖✨
 - **Medieval Setting**: Discover the charms and dangers of a medieval village, filled with details that bring the era to life. 🌿
-- **Diverse Characters**: Meet a variety of villagers, each with their own stories and motivations, who will help or hinder your investigation. 👥🔮
+- **Diverse Characters**: Meet a variety of villagers, each with their own stories and motivations, who will help or hinder your investigation. 🔮
 - **Impactful Choices**: Your decisions will influence the course of the story and the game's outcome. ⚖️
 
 ## 🌍🗣️ How to Play
@@ -23,11 +23,11 @@ The theme of the Game Jam was "Small World," which inspired us to create a rich 
 
 ## 💻 System Requirements
 
-- **OS**: Windows, macOS, or Linux 🖥️
-- **Processor**: Intel Core i3 or equivalent ⚙️
-- **Memory**: 4 GB RAM 🧠
-- **Graphics**: Graphics card with OpenGL support 🎮
-- **Storage**: 500 MB of available space 💾
+- **OS**: Windows, macOS, or Linux 
+- **Processor**: Intel Core i3 or equivalent 
+- **Memory**: 4 GB RAM 
+- **Graphics**: Graphics card with OpenGL support 
+- **Storage**: 500 MB of available space 
 
 ## 🎉🙌 Acknowledgments
 
