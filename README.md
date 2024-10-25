@@ -40,3 +40,4 @@ We would like to thank everyone who participated in the Game Jam and the NCGM gr
 </div>
 
 **Have fun unraveling the mystery!** 🔍🔑🧩
+[Play Mistério Oculto](https://diana-nunes.itch.io/mistrio-oculto)
